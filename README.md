@@ -2,14 +2,12 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=oxzoid&theme=vue-dark&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oxzoid&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" alt="languages graph"  />
+  <img align="top" height="150" src="https://avatars.githubusercontent.com/u/35035937?v=4"  />
 </div>
 
-###
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/35035937?v=4"  />
 
 ###
 
@@ -31,10 +29,8 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"/>
 </div>
 
-###
 
 
-###
 
 <br clear="both">
 
