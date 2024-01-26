@@ -27,6 +27,10 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height="30" alt="c logo"  />
   <img width="12"/>
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongoDB"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="SQL"/>
 </div>
 
 
