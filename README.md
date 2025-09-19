@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Oxzoid, and I'm a Computer Engineering Student from India</h2>
+<h2 align="left">Hi 👋! I'm a Computer Engineering Student from India</h2>
 
 ###
 
