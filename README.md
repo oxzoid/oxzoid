@@ -11,14 +11,13 @@ Hi 👋! I'm a Computer Engineering Student from India
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <img align="top" height="150" src="https://avatars.githubusercontent.com/u/35035937?v=4"  />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=oxzoid&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<div align="left">
-  <img align="top" height="150" src="https://avatars.githubusercontent.com/u/35035937?v=4"  />
-</div>
+
 
 
 ###
