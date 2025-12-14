@@ -1,5 +1,5 @@
 # About Me:
-Hi 👋! I'm a Computer Engineering Student from India
+### Hi 👋! I'm a Computer Engineering Student from India
 <img src="https://cdna.artstation.com/p/assets/images/images/005/380/258/large/eamon-o-donoghue-sitting-surfer.jpg?1490628975" alt="silver surfer"/>
 
 # Tech Stack:
